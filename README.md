@@ -19,4 +19,5 @@ Feel free to explore the projects, provide feedback, or even connect with me. Yo
 Thank you for stopping by and being a part of my journey.
 
 Happy coding!
+
 Gelo
