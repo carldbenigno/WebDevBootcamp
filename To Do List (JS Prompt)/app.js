@@ -15,8 +15,10 @@ while (input.toLowerCase() !== "q") {
         "input the right index number of the to-do that you want to delete..."
       )
     );
+    console.log(`${toDoList[indexDelete]} is now deleted.`);
     toDoList.splice(indexDelete, 1);
   } else {
+    console.log("Task successfuly added to the list.");
     toDoList.push(input);
   }
   input = prompt("add new task");
